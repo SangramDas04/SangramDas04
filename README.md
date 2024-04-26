@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SangramDas04
+- 👋 Hi, I’m Sangram Das
 - 👀 I’m interested in Business Analytics and Data Science
 - 🌱 I’m currently learning Business Analytics
 - 💞️ I’m looking forward to get oppotunities to upskill myself
